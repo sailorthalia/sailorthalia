@@ -23,7 +23,7 @@
   <li>Based in Belo Horizonte, Brazil
   <li><b>Languages I speak</b>: English, German, Japanese and Portuguese
   <li>Marketing professional: SEO, Inbound Marketing, Copywriting, Content Strategy, Writing
-  <li>Web developer in progress. <i>News projects soon!</i>
+  <li>Web developer in progress. <i>New projects soon!</i>
 </ul>
 
 <p> Hi, I'm Nathalia but everyone calls me Thalia. I'm an SEO and Marketing professional who recently started to learn web development (front-end) to upgrade my skills and become an even more capable professional. As an SEO professional, I mainly study JavaScript and HTML5/CSS, but I intend to expand my knowledge furthermore to back-end, becoming fulll-stack in the long term. My dreams and hopes include to graduate and specialize my career the field of Technology.</p>
