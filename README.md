@@ -26,7 +26,7 @@
   <li>Web developer in progress. <i>New projects soon!</i>
 </ul>
 
-<p> Hi, I'm Nathalia but everyone calls me Thalia. I'm an SEO and Marketing professional who recently started to learn web development (front-end) to upgrade my skills and become an even more capable professional. As an SEO specialist, I mainly study JavaScript and HTML5/CSS, but I intend to expand my knowledge furthermore to back-end, becoming fulll-stack in the long term. My dreams and hopes include to graduate and specialize my career the field of Technology.</p>
+<p> Hi, I'm Nathalia but everyone calls me Thalia. I'm an SEO and Marketing professional who recently started to learn web development (front-end) to upgrade my skills and become an even more capable professional. As an SEO specialist, I mainly study JavaScript and HTML5/CSS, but I intend to expand my knowledge furthermore to back-end, becoming fulll-stack in the long term. My dreams and hopes include to graduate and specialize my career in the field of Technology.</p>
   
 ### 📞 You can reach me here 👇 
  
